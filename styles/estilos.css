@@ -70,3 +70,18 @@ body{
             transform: scale(1.5);
     opacity: 1;
   }
+
+  /* .links-hover{
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: -1;
+      padding: 10px;
+      margin: 0;
+  } */
+
+
+.footer{
+    text-align: center;
+    color: #646165;
+}
