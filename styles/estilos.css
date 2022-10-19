@@ -5,15 +5,15 @@ body{
 }
 
 .main{
-    margin-top: 200px;
-    height: 300px;
+    margin-top: 80px;
+    height: 200px;
     align-content: center;
     text-align: center;
 }
 
 .main__img{
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     border-radius: 155px;
     object-fit: cover;
     border: 5px solid white;
@@ -38,7 +38,7 @@ body{
 }
 .links__container{
     white-space: nowrap;
-    margin: 300px;
+    margin: 200px;
     display: flex;
     justify-content: center;
 }
